@@ -1,9 +1,9 @@
 🐝
 
-Hey, I’m Ashir, a Full-Stack Software Engineer based in Pakistan.
+Hey, I’m Ashir, a Product Engineer based in Pakistan.
 
-I have 3+ years of professional experience building scalable web applications and SaaS platforms, mostly for startups and early-stage products. I’ve worked across the stack using MERN, Next.js, NestJS, Laravel, and DevOps, with a strong focus on clean architecture and performance.
+I have 3+ years of professional experience helping startups build scalable applications, SaaS platforms, and AI-powered products. I’ve worked across the entire product lifecycle—from market research and development to product-market fit and growth.
 
-Currently, I’m building [Seltrax](https://seltrax.com) — an eCommerce platform aimed at making online selling more accessible by removing the high costs and technical barriers of existing solutions. I’m working end-to-end on the product, from architecture and development to product decisions and execution.
+Recently, I built [Seltrax](https://seltrax.com), an eCommerce platform aimed at making online selling more accessible for SMEs in Pakistan. I'm always open to discussing new ideas, startups, and product development.
 
 [More about me &rarr;](https://afridiashir.github.io)
